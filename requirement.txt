@@ -1,0 +1,8 @@
+anthropic
+streamlit
+openai
+langchain
+langchain-google-genai
+langchain_openai
+langchain_anthropic
+langchain_groq
