@@ -27,3 +27,6 @@ pip install -r requirement.txt
 ```
 streamlit run app.py
 ```
+
+# Sample
+https://genui.faizrashid.my.id/
